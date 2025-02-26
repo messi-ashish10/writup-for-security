@@ -45,9 +45,9 @@ CloudFoxable is a Terraform-based AWS security challenge. The first challenge, *
    ```
 5. Find the flag in the Terraform output (`FLAG{}` format) and submit it.
 
-**Example Output:**
+**Output:**
 ```
-FLAG{DoThisFirst::WelcomeToCloudFoxable}
+FLAG{congrats_you_are_now_a_terraform_expert_happy_hunting}
 ```
 
 ## Analysis
