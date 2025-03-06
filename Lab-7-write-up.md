@@ -55,13 +55,15 @@ This challenge focuses on setting up and utilizing a **Bastion Host** for secure
 
 - List the EC2 instances to find the instance ID of your bastion host:
 
-  `cloudfox aws -p cloudfoxable instances -v2`
+  ```bash
+  cloudfox aws -p cloudfoxable instances -v2
 ### Connect to the Instance Using SSM
 
 - Install the Session Manager Plugin (if not already installed) and use the command from the loot file to connect via AWS SSM:
 
-  `aws ssm start-session --target <instance-id>`
-### 8. Retrieve the Flag
+  ```bash
+  aws ssm start-session --target <instance-id>
+### Retrieve the Flag
 
 - List the contents of the S3 bucket and retrieve the flag:
 
