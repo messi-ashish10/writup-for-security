@@ -16,6 +16,8 @@ By completing this challenge, you will:
 
 ## **Solution**
 
+I have crafted this guide to document the step-by-step process I followed to complete the challenge. The following sections will walk you through how I approached the problem, verified access, and ultimately retrieved the secret.
+
 ### **Step 1: Configure AWS Profile and Verify Access**
 Edit your AWS configuration file to add the **Ertz** profile:
 ```bash
@@ -166,7 +168,7 @@ Here are some insightful questions that reflect the thought process and challeng
 ---
 
 ## **Conclusion**
-By following these steps, you successfully retrieved the secret flag from AWS SSM Parameter Store. This challenge demonstrates the importance of correctly analyzing IAM policies and understanding AWS security configurations.
+By following these steps, I successfully retrieved the secret flag from AWS SSM Parameter Store. This challenge demonstrates the importance of correctly analyzing IAM policies and understanding AWS security configurations.
 
 ---
 
