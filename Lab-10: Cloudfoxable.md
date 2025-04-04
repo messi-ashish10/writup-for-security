@@ -174,7 +174,7 @@ Through this challenge, I learned:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This CloudFoxable challenge provided a practical, hands-on opportunity to explore AWS IAM permissions and trust relationships, demonstrating realistic cloud security enumeration, privilege escalation, and secret retrieval processes. I significantly strengthened my AWS security and IAM skills, essential for cloud security professionals and penetration testers.
 
